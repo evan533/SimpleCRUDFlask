@@ -1,0 +1,2 @@
+FLASK_APP=bookmanager.py
+FLASK_ENV=development
